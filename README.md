@@ -1,3 +1,3 @@
 # odin-recipes
 
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+This project contains a main webpage with links to a few recipes, with each recipe page linking back to the homepage. This project demonstrates basic HTML, specifically HTML boilerplate, elements, and attributes.
