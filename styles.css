@@ -12,9 +12,52 @@
 
 body {
   background-color: #FFDFBC;
-  margin: 40px;
+  margin: 45px;
 }
 
 h1 {
   text-align: center;
+}
+
+.recipe-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  border: 5px solid #306B34;
+  border-radius: 25px;
+}
+
+.recipe-list {
+  margin: 30px;
+}
+
+.recipe-item {
+  padding-bottom: 15px;
+}
+
+figure {
+  margin: 30px;
+}
+
+.image-recipe {
+  display: flex;
+  margin: auto;
+  width: 750px;
+  height: auto;
+}
+
+.image-caption {
+  text-align: center;
+  font-size: 15px;
+}
+
+.recipe-box {
+  margin-bottom: 20px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
